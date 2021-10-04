@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHub Issues Repository</string>
+    <string name="loading_data_text">Loadin data...</string>
+</resources>
